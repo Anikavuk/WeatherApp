@@ -1,9 +1,7 @@
 from django.shortcuts import render
 import bcrypt
 
-# # Create your views here.
-# import bcrypt
-#
+
 # # Хэширование пароля
 # password = b"my_secure_password"
 # hashed = bcrypt.hashpw(password, bcrypt.gensalt())
