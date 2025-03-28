@@ -1,5 +1,5 @@
-from django.shortcuts import render
-import bcrypt
+# from django.shortcuts import render
+# import bcrypt
 
 
 # # Хэширование пароля
